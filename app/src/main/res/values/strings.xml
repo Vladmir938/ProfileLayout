@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabLayout</string>
+    <string name="text_name">Имя:</string>
+    <string name="text_age">Возраст:</string>
+    <string name="text_specialization">Специализация:</string>
+    <string name="accountName">Владимир</string>
+    <string name="accountAge">20</string>
+    <string name="accountSpecialization">Студент</string>
+    <string name="text_status">Статус:</string>
+    <string name="text_mood">Настроение:</string>
+    <string name="accountMood">Грустно</string>
+    <string name="accountStatus">Я не выспался</string>
+</resources>
